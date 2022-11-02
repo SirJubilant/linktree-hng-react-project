@@ -1,0 +1,30 @@
+header {
+    position: relative;
+    text-align: center;
+    margin-top: 64px;
+    margin-bottom: 56px;
+}
+
+header h3 {
+    font-size: 1.5rem;
+}
+
+
+.profile-img {
+    width: 92px;
+    height: 92px;
+    margin-inline: auto;
+    margin-bottom: 24px;
+}
+
+.profile-img img{
+    width: 92px;
+    height: 92px;
+    border-radius: 50%;
+    background-size: cover;
+}
+
+#slack {
+    display: none;
+}
+

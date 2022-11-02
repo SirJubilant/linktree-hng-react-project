@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'inter';
+}
+
+.btn-section {
+  display: block;
+  width: 70%;
+  place-items: center;
+  margin: 0 auto;
+}
+
+.logo-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.logo-section .slack-logo {
+  width: 5%;
+  height: 5%;
+  object-fit: contain;
+}
